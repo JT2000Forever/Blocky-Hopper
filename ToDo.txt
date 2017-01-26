@@ -1,11 +1,13 @@
 Turja: 
-Laga Prize Spin (mobil och rarity)
+Laga Prize Spin (rarity)
 Fixa molnen
 Piano ljud på bonus hopp
 Funktionalitet i settings menyn
 PostDeath coin-counter samma som dead
+Sälja karaktärer
 
 Felle: 
+Skuggade knappar?
 
 Alle:
 
