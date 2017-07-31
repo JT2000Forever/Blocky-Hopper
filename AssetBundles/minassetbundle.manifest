@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 844781723
+CRC: 637765950
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 67699e52936f6ee39ed85a4d2f0b3a27
+    Hash: 202fe80860611d91ffb9c7069455a1c3
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7cbc20d51cb013cef91a40dcbe43379b
+    Hash: 9723f8c707dd178fb143601e37cd53e0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,7 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 65
+- Class: 135
   Script: {instanceID: 0}
 Assets:
 - Assets/Min_Kub.prefab
