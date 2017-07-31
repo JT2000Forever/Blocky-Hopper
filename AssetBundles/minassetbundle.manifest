@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3306380421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be35900c5b7c29b4aa07d6bc3540bc69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7cbc20d51cb013cef91a40dcbe43379b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Min_Kub.prefab
+Dependencies: []
